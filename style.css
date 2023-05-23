@@ -249,5 +249,12 @@ footer .line2 a:first-child{
     .CBItems label{
         font-size: 17px;
     }
+    footer .line1{
+        flex-direction: column;
+    }
+    footer .adress{
+        width: 95%;
+        margin-bottom: 20px;
+    }
 
 }
